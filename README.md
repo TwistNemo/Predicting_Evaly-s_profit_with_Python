@@ -1,6 +1,6 @@
 <h1>Predicting Evaly's Profit with Python</h1>
 
-<p>This repository contains the code for predicting Evaly's profit using a Long Short-Term Memory (LSTM) neural network. The project is implemented in a Jupyter notebook and executed in your local environment or any preferred platform that supports Jupyter notebooks.</p>
+<p>This repository contains the code for predicting Evaly's profit using a Long Short-Term Memory (LSTM) neural network. The project is implemented in a Jupyter notebook and executed in local environment or any preferred platform that supports Jupyter notebooks.</p>
 
 <h2>Table of Contents</h2>
 <ul>
