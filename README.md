@@ -66,5 +66,5 @@ cd evaly-profit-prediction
 <p>By following these steps, anyone can replicate the process and run the code to predict Evaly's future profit.</p>
 
 <h2 id="screenshot-of-code-running">Screenshot of Code Running</h2>
-<p><img src="path_to_screenshot" alt="![image](https://github.com/user-attachments/assets/ce2f0a81-2ede-4d64-9ca3-7c0dc0d9c6c5)
-"></p>
+![image](https://github.com/user-attachments/assets/940c4c16-9bfb-439c-9858-8fc430a5b815)
+
